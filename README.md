@@ -1,6 +1,16 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。
 
+**2021-4-5**
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/tree/main/2021-4-5">FullGC和YoungGC的区别</a>
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/tree/main/2021-4-5">线程池</a>
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/tree/main/2021-4-5">ThreadLocal</a>
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/tree/main/2021-4-5">多线程练习题：按序打印</a>
+
 **2021-4-4**
 
 ✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/tree/main/2021-4-4">synchronized 和Lock的区别</a>
