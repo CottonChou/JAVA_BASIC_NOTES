@@ -14,7 +14,19 @@ public static void main(String[] args) {
 
 在线程的内部持有了两个对象
 
-![image-20210405194756955](./threadLocal.assets/image-20210405194756955.png)
+```java
+    /* ThreadLocal values pertaining to this thread. This map is maintained
+     * by the ThreadLocal class. */
+    ThreadLocal.ThreadLocalMap threadLocals = null;
+
+    /*
+     * InheritableThreadLocal values pertaining to this thread. This map is
+     * maintained by the InheritableThreadLocal class.
+     */
+    ThreadLocal.ThreadLocalMap inheritableThreadLocals = null;
+```
+
+
 
 当线程第一次ThreadLocal的set方法或者get方法的时候才会创建他们。ThreadLocal类型的本地变量是存放在具体的线程空间上。
 
