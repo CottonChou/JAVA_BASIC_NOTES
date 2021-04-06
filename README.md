@@ -1,7 +1,10 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。
+> 
 **2021-4-6**
+
 ✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-6/B%2B%E6%A0%91%E5%92%8CMVCC.md">B+树和MVCC</a>
+
 ✔ <a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-6/feign%E8%AE%BE%E7%BD%AE%E8%AF%B7%E6%B1%82%E5%A4%B4%E5%90%8C%E6%AD%A5%2C%E5%BC%82%E6%AD%A5%E5%9C%BA%E6%99%AF.md">Feign在同步，异步下设置请求头的问题</a>
 **2021-4-5**
 
