@@ -1,6 +1,10 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。
 > 
+**2021-4-7** 
+
+<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-7/2021-4-7.md">脏读和幻读如何解决</a>
+
 **2021-4-6**
 
 ✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-6/B%2B%E6%A0%91%E5%92%8CMVCC.md">B+树和MVCC</a>
