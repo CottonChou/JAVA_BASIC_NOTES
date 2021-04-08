@@ -3,7 +3,7 @@
 > 
 **2021-4-7** 
 
-<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-7/2021-4-7.md">脏读和幻读如何解决</a>
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-7/2021-4-7.md">脏读和幻读如何解决</a>
 
 **2021-4-6**
 
