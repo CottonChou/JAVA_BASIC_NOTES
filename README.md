@@ -1,7 +1,17 @@
 # JAVA_BASIC_NOTES
-> 基础不牢，地动山摇。
-> 
-**2021-4-7** 
+> 基础不牢，地动山摇。 
+
+**2021-4-8**
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-8/2021-4-8.md">什么样的情况下会发生死锁？如何解决死锁？</a>
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-8/2021-4-8.md">MySQL 中 varchar 和 char 的区别是什么？</a>
+
+✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-8/2021-4-8.md">左连接和内连接</a>
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-8/2021-4-8.md">模糊查询，悲观锁，乐观锁</a>
+
+**2021-4-7**
 
 ✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-7/2021-4-7.md">脏读和幻读如何解决</a>
 
