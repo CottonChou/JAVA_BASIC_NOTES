@@ -1,6 +1,20 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。 
 
+**2021-4-10**
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-10/redis%E5%93%A8%E5%85%B5%E6%9C%BA%E5%88%B6.md">redis的哨兵机制</a>
+
+✔<a href="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-10/redis%E7%9A%84%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md">redis的主从复制</a>
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-10/%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9%E5%92%8C%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF.md">缓存雪崩，击穿，穿透</a>
+
+**2021-4-9**
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-9/RDB%E5%92%8CAOF.md">RDB和AOF</a>
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-9/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md">Redis实现分布式锁</a>
+
 **2021-4-8**
 
 ✔ <a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-8/2021-4-8.md">什么样的情况下会发生死锁？如何解决死锁？</a>
