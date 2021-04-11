@@ -1,6 +1,12 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。 
 
+**2021-4-11**
+
+✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-11/redisCluter.md">redisCluster</a>
+
+✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-11/%E7%BC%93%E5%AD%98%E4%B8%80%E8%87%B4%E6%80%A7.md">缓存一致性</a>
+
 **2021-4-10**
 
 ✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-10/redis%E5%93%A8%E5%85%B5%E6%9C%BA%E5%88%B6.md">redis的哨兵机制</a>
