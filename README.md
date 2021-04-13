@@ -1,7 +1,13 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。 
 
-**2021-4-11**
+**2021-4-13**
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-12/redis%E7%9A%84%E4%BA%8B%E5%8A%A1.md">redis的事务</a>
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-12/%E5%8F%91%E5%B8%83%E4%B8%8E%E8%AE%A2%E9%98%85.md">发布和订阅的实现</a>
+
+**2021-4-12**
 
 ✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-12/redis%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md"> redis中的数据结构(上)</a>
 
