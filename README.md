@@ -3,6 +3,10 @@
 
 **2021-4-11**
 
+✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-12/redis%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md"> redis中的数据结构(上)</a>
+
+**2021-4-11**">
+
 ✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-11/redisCluter.md">redisCluster</a>
 
 ✔<a href ="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-11/%E7%BC%93%E5%AD%98%E4%B8%80%E8%87%B4%E6%80%A7.md">缓存一致性</a>
