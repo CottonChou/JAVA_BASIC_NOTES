@@ -1,6 +1,16 @@
 # JAVA_BASIC_NOTES
 > 基础不牢，地动山摇。 
 
+
+
+**2021-4-15**
+
+✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-15/IOAndZeroCopy.md">重写IO模型和零拷贝</a>
+
+**2021-4-14**
+
+✔<a href="https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-14/redis%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B.md">redis网络模型</a>
+
 **2021-4-13**
 
 ✔<a href = "https://github.com/FuYouJ/JAVA_BASIC_NOTES/blob/main/2021-4-12/redis%E7%9A%84%E4%BA%8B%E5%8A%A1.md">redis的事务</a>
