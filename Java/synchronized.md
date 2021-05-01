@@ -50,7 +50,7 @@ epoch字段的作用
 
 **补一张图**
 
-![image-20210501233138917](synchronized.assets/image-20210501233138917.png)
+![image-20210501233138917](./synchronized.assets/image-20210501233138917.png)
 
 00 ：轻量级锁
 
