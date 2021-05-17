@@ -51,3 +51,10 @@ redo日志一直在往log buffer缓冲区里面写入，需要等待一定的时
 **MySQL对于恢复的加速的优化**
 
 根据redo log的表空间ID和页号属性计算出hash值，讲同一个表空间的同一页放在同一个hash槽，这样在恢复数据的时候可以一次性的修复一个页面，加快恢复的速度。
+
+redo log是物理日志，服务器重启的时候首先是检查redo log,redo log的恢复速度比binlog快得多，bin log是逻辑日志。比如对于一个页面的修改redo log是这样记录的。
+
+```sql
+page(2,3) offset 32 value 1,2
+```
+
